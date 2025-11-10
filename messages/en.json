@@ -1,0 +1,274 @@
+{
+   "company_name": "Revolution Academy",
+   "company_tagline1": "Premier coaching for 11th/12th Science students with specialized JEE/NEET preparation and board exam excellence.",
+   "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "courses": "Courses",
+      "faculty": "Faculty",
+      "events": "Events",
+      "contact": "Contact",
+      "resources": "Resources",
+      "study_materials": "Study Materials",
+      "mock_tests": "Mock Tests",
+      "doubt_sessions": "Doubt Sessions",
+      "previous_year_papers": "Previous Year Papers",
+      "11th_science": "11th Science",
+      "12th_science": "12th Science",
+      "jee_foundation": "JEE Foundation",
+      "neet_crash_course": "NEET Crash Course"
+   },
+   "common": {
+      "phone": "Phone",
+      "mobile_number": "Mobile Number",
+      "email": "Email"
+   },
+   "address": {
+      "line1": "First Floor, Late. Babasaheb Shankarrao Gaikwad Sankul,",
+      "line2": "SomeshwarNagar(Karanjepul), Block. Baramati, Dist. Pune"
+   },
+   "hero": {
+      "heading_part1": "Building",
+      "heading_part2": "Future Scholars",
+      "heading_part3": "for JEE/NEET",
+      "quote_part1": "Success is where preparation and opportunity meet.",
+      "quote_part1_owner": "Bobby Unser",
+      "description_line1": "Our intensive programs for 11th & 12th Science students combine",
+      "description_line2": "with",
+      "conceptual_clarity": "conceptual clarity",
+      "competitive_prep": "competitive exam preparation"
+   },
+   "register_now": "Register Now",
+   "view_last_year_result": "View last year result",
+
+   "features": {
+      "why_choose_us": "Why choose us?",
+      "title_1": "Transforming Students Into",
+      "title_2": "Top Performers",
+      "subtitle": "Our scientifically designed program bridges the gap between school education and competitive exam requirements, ensuring holistic development.",
+      "feature_1": "Comprehensive Curriculum",
+      "feature_1_details": "Structured syllabus covering all JEE/NEET and board exam topics with concept clarity as the primary focus.",
+      "feature_2": "Expert Faculty",
+      "feature_2_details": "Learn from IIT/NIT alumni and experienced educators who specialize in competitive exam preparation.",
+      "feature_3": "Result-Oriented Approach",
+      "feature_3_details": "Proven track record with 85%+ of our students securing ranks in top engineering/medical colleges."
+   },
+   "stats": {
+      "title_part1": "Building",
+      "title_part2": "Academic Excellence",
+      "subtitle": "Our proven track record speaks for itself. We transform potential into performance through dedicated mentoring and scientifically designed curriculum.",
+
+      "our_courses": "Our Courses",
+      "study_materials": "Study Materials",
+      "meet_our_faculty": "Meet Our Faculty",
+
+      "students_enrolled": "Students Enrolled",
+      "jee_neet_qualifiers": "JEE/NEET Qualifiers",
+      "faculty_experience": "Faculty Experience",
+      "weekly_study_hours": "Weekly Study Hours",
+
+      "youtube_title": "Watch our classroom experience and teaching methodology"
+   },
+   "testimonials": {
+      "title": "What Our Students / Parents Say",
+      "student1": {
+         "name": "Aarav Sharma",
+         "message": "Revolution Academy helped me build a solid foundation in Physics and Chemistry. The faculty is amazing and always supportive!"
+      },
+      "student2": {
+         "name": "Sneha Patil",
+         "message": "I was struggling with Math, but the practice problems and doubt sessions turned everything around. Highly recommend!"
+      },
+      "student3": {
+         "name": "Rohan Deshmukh",
+         "message": "I loved the structured curriculum and regular progress tests. It prepared me well for the board and competitive exams."
+      }
+   },
+
+   "about": {
+      "hero_title_part1": "About",
+      "hero_title_part2": "Revolution Academy",
+      "subtitle": "Transforming education since 2010 with proven methodologies and exceptional results",
+      "vision_title": "Our Founder's Vision",
+      "vision_details": "After teaching at premier institutions across India, I recognized the need for a student-centric approach that bridges the gap between school education and competitive exam requirements. Revolution Academy was born from this vision.",
+      "educational_philosophy": "Educational Philosophy",
+      "educational_philosophy_details": "We believe in concept clarity first, followed by rigorous practice and personalized mentoring to unlock each student&apos;s potential.",
+      "our_achievements": "Our Achievements",
+      "our_achievements_details": "1500+ JEE/NEET selections | 98% Board exam pass rate | 85%+ students scoring above 90% in PCMB",
+      "years_established": "Years Established",
+      "students_taught": "Students Taught",
+      "faculty_members": "Faculty Members",
+      "toppers_produced": "Toppers Produced",
+      "mission_title": "Our Core Mission",
+      "mission_title_details": "To provide affordable, high-quality education that empowers students to excel in both board exams and competitive entrance tests while developing critical thinking skills for lifelong success.",
+      "teaching_methodology": "Teaching Methodology",
+      "teaching_methodology_details": "Concept → Application → Mastery approach with regular assessments",
+      "infrastructure": "Infrastructure",
+      "infrastructure_details": "Smart classrooms | Advanced labs | 10,000+ book library",
+      "parent_partnership": "Parent Partnership",
+      "parent_partnership_details": "Monthly progress reports | Dedicated parent portal | Counseling",
+      "founder_name": "Prof. Shrikant Bapurao Patil",
+      "founder_role": "Founder & Director",
+      "founder_details": "B.E.(civil) | 30+ Years Teaching Experience | Special Subject: Mathematics"
+   },
+
+   "courses": {
+      "hero_title_part1": "Our",
+      "hero_title_part2": "Academic Programs",
+      "hero_subtitle": "Scientifically designed courses that bridge school education and competitive exam requirements",
+
+      "hero2_title": "Ready to begin your journey?",
+      "hero2_subtitle": "Download our complete batch schedule and fee structure",
+      "hero2_download": "Download Brochure",
+      "hero2_speak_to_counselor": "Speak to counselor",
+
+      "main_heading": "Transformative Learning Experiences",
+      "main_sub_heading": "Choose the perfect program for your academic goals with our structured pathways",
+      "program_highlight": "PROGRAM HIGHLIGHT",
+
+      "enquire_now": "Enquire Now",
+      "detailed_syllabus": "Detailed syllabus",
+
+      "11th_science": "11th Science Foundation",
+      "11th_science_description": "Build strong fundamentals in Physics, Chemistry, and Mathematics with our CBSE/State Board aligned curriculum.",
+      "11th_science_featur_1": "Comprehensive theory sessions",
+      "11th_science_featur_2": "Weekly doubt-clearing classes",
+      "11th_science_featur_3": "Monthly progress tests",
+      "11th_science_featur_4": "200+ practice problems/month",
+      "11th_science_duration": "1 Year Program",
+      "11th_science_highlight": "JEE/NEET Foundation",
+
+      "12th_science": "12th Science Intensive",
+      "12th_science_description": "Complete syllabus coverage with competitive exam preparation for board excellence and JEE/NEET success.",
+      "12th_science_featur_1": "Dual preparation strategy",
+      "12th_science_featur_2": "Chapter-wise test series",
+      "12th_science_featur_3": "10+ full syllabus mock tests",
+      "12th_science_featur_4": "Exam temperament training",
+      "12th_science_duration": "1 Year Program",
+      "12th_science_highlight": "95%+ Board Results",
+
+      "jee_main": "JEE Mains & Advanced",
+      "jee_main_description": "Specialized program for engineering aspirants with advanced problem-solving techniques and test strategies.",
+      "jee_main_featur_1": "IIT alumni mentors",
+      "jee_main_featur_2": "Daily practice problems",
+      "jee_main_featur_3": "15+ mock test series",
+      "jee_main_featur_4": "Rank improvement program",
+      "jee_main_duration": "2 Year/1 Year Options",
+      "jee_main_highlight": "1000+ Selections",
+
+      "neet": "NEET Preparation",
+      "neet_description": "Comprehensive medical entrance coaching with NCERT focus and advanced biology concepts.",
+      "neet_featur_1": "Daily MCQ practice",
+      "neet_featur_2": "Diagram-based learning",
+      "neet_featur_3": "5,000+ curated questions",
+      "neet_featur_4": "Previous year paper analysis",
+      "neet_duration": "2 Year/1 Year Options",
+      "neet_highlight": "600+ MBBS Selections",
+
+      "board": "Board Exam Special",
+      "board_description": "Crash course for 12th board exams with guaranteed score improvement techniques.",
+      "board_featur_1": "Chapter-wise revision",
+      "board_featur_2": "Important question banks",
+      "board_featur_3": "Answer writing workshops",
+      "board_featur_4": "5 full syllabus tests",
+      "board_duration": "3 Months Program",
+      "board_highlight": "Average 25% Score Improvement"
+   },
+
+   "faculty": {
+      "hero_image_alt": "Faculty members teaching students",
+      "hero_title_part1": "Meet Our",
+      "hero_title_part2": "Expert Faculty",
+      "hero_subtitle": "Learn from the best minds in science education with proven track records",
+      "section_title": "Distinguished Educators",
+      "section_description": "Our faculty combines academic excellence with years of teaching experience",
+      "achievements_title": "Key Achievements",
+      "philosophy_title": "Our Teaching Philosophy",
+      "philosophy_description": "Proven methodologies that deliver exceptional results year after year",
+
+      "faculty_member1_name": "Dr. Rajesh Kumar",
+      "faculty_member1_role": "Physics Department Head",
+      "faculty_member1_qualification": "Ph.D. in Physics, IIT Bombay",
+      "faculty_member1_experience": "18+ years experience",
+      "faculty_member1_specialization": "Electrodynamics & Modern Physics",
+      "faculty_member1_achievement1": "100+ JEE Advanced qualifiers",
+      "faculty_member1_achievement2": "Gold Medalist in National Physics Olympiad",
+      "faculty_member1_achievement3": "Visiting Professor at IISc",
+
+      "faculty_member2_name": "Prof. Meena Sharma",
+      "faculty_member2_role": "Chemistry Mentor",
+      "faculty_member2_qualification": "M.Sc. Chemistry, BITS Pilani",
+      "faculty_member2_experience": "15 years experience",
+      "faculty_member2_specialization": "Organic Chemistry",
+      "faculty_member2_achievement1": "95% students score 90+ in Boards",
+      "faculty_member2_achievement2": "NEET Chemistry expert",
+      "faculty_member2_achievement3": "Developed \"Reaction Maps\" technique",
+
+      "faculty_member3_name": "Dr. Amit Patel",
+      "faculty_member3_role": "Mathematics Professor",
+      "faculty_member3_qualification": "Ph.D. Mathematics, ISI Kolkata",
+      "faculty_member3_experience": "12 years experience",
+      "faculty_member3_specialization": "Calculus & Algebra",
+      "faculty_member3_achievement1": "Created Maths Shortcut Techniques",
+      "faculty_member3_achievement2": "Mentored AIR 1 in 2022",
+      "faculty_member3_achievement3": "JEE Advanced question paper analyst",
+
+      "faculty_member4_name": "Prof. Shital Mishra",
+      "faculty_member4_role": "Maths Mentor",
+      "faculty_member4_qualification": "M.Sc. Math, BITS Pilani",
+      "faculty_member4_experience": "7 years experience",
+      "faculty_member4_specialization": "Mathematics and Statistics",
+      "faculty_member4_achievement1": "91% students score 91+ in Boards",
+      "faculty_member4_achievement2": "Developed \"Reaction Maps\" technique",
+
+      "philosophy_feature1_name": "Concept Clarity",
+      "philosophy_feature1_description": "Building strong fundamentals before problem-solving",
+      "philosophy_feature2_name": "Personalized Attention",
+      "philosophy_feature2_description": "Small batch sizes with individual mentoring",
+      "philosophy_feature3_name": "Exam Excellence",
+      "philosophy_feature3_description": "Optimized for board and competitive exams"
+   },
+   "contacts":{
+      "hero_title": "Contact",
+      "hero_span": "Academic Programs",
+      "hero_subtitle": "We're here to answer your questions and guide your academic journey",
+      "section_title": "Get in touch",
+      "section_description": "Have questions about our programs? Want to schedule a campus visit?",
+      "address_title": "Our Campus",
+      "address_line1": "First Floor, Late. Babasaheb Shankarrao Gaikwad Sankul,",
+      "address_line2": "Karanjepul, Baramati, Pune, India",
+      "phone_title": "Phone",
+      "phone_admissions": "Admissions: +91 7035361414",
+      "phone_admin": "Administration: +91 8888401888",
+      "email_title": "Email",
+      "email_admissions": "Admissions: admissions@revolutionacademy.com",
+      "email_general": "General: revolutionscienceacademy@gmail.com",
+      "hours_title": "Office Hours",
+      "hours_weekday": "Monday – Saturday: 8:00 AM – 6:00 PM",
+      "hours_sunday": "Sunday: 10:00 AM – 2:00 PM",
+      "form_name": "Name",
+      "form_phone": "Phone",
+      "form_email": "Email",
+      "form_message": "Message",
+      "form_submit": "Send Message",
+      "cta_title": "Visit our campus",
+      "cta_subtitle": "Schedule a personal tour to experience our facilities",
+      "cta_button1": "Book Campus Tour",
+      "cta_button2": "Call Now"
+   },
+  "events": {
+    "banner_alt": "Event banner background",
+    "heading": "Our",
+    "highlight": "Events",
+    "subheading": "Explore moments from our academic, cultural, and motivation events",
+    "categories": {
+      "academic": "Academic",
+      "cultural": "Cultural",
+      "motivation": "Motivation"
+    },
+    "view_image": "View full size image",
+    "event_image_alt": "Event image",
+    "full_image_alt": "Full event image"
+  }
+
+}
